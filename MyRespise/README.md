@@ -62,8 +62,17 @@ Pubg|78$|TOP2
 原神|free|TOP3
 
 
+## 超链接
 
+[BiliBili弹幕网](http://www.bilibili.com "点击进入b站")
+[百度搜索](http://www.baidu.com "点击进入")
 
+##插入代码片段
+
+```c
+#include<stdio.h>
+int main()
+```
 
 
 
